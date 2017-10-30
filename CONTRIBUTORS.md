@@ -1,3 +1,8 @@
+#### Name: [Sudheer Darla](https://github.com/sudheerdarla)
+- Place: Hyderabad, Telangana, India
+- Bio: Front-end Freelancer
+- GitHub: [sudheerdarla](https://github.com/sudheerdarla)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
